@@ -13,7 +13,7 @@
   
   .card:hover {
     box-shadow: 0 0 11px 5px rgba(70, 41, 121, 0.25);
-    background: linear-gradient(-19deg, rgba(235, 174, 8, 0.95) 0px);
+    background: linear-gradient(-19deg, rgba(8, 235, 27, 0.95) 0px);
   }
   
   .card-text a {
