@@ -8,7 +8,7 @@ export class StarRepositoryDirective {
   constructor(private elementRef: ElementRef) { }
 
   @HostListener('click') onClicks() {
-    this.starColor('#ffc107');
+    this.starColor('red');
   }
 
   private starColor(action: string) {
