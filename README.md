@@ -1,3 +1,41 @@
+# Author
+David Musembi
+
+# Description
+This is an  Angular Project on a github app that uses the github api to allow users to:
+* View my Github details.
+* Search for their github details.
+* Search for their github repositories.
+* Star a repository.
+# Setup Requirements
+* Git
+* Github
+* Web Browser (Chrome or Firefox)
+* Angular CLI https://angular.io/cli
+* Node.js https://nodejs.org/en/
+* TypeScript https://www.typescriptlang.org/
+* Github API https://docs.github.com/en/rest
+
+# Setup Installation
+* Copy the link of this repository
+* Clone it to your local machine
+* Open terminal and navigate to the directory of the project you just cloned to your computer
+* Run the following command to install all the dependencies
+``` 
+npm install
+```
+* To open the development server, run 
+```
+ng serve --open
+```
+* To view the application, navigate to  http://localhost:4200/ 
+* Generate an API Key (Personal Access Token) https://github.com/settings/tokens
+
+# Technologies Used
+* HTML
+* CSS
+* Boostrap
+* TypeScript
 # GithubSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
